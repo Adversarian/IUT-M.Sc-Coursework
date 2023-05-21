@@ -1,0 +1,8 @@
+@MISC {535051,
+    TITLE = {Why is $k = \sqrt{N}$ a good solution of the number of neighbors to consider?},
+    AUTHOR = {microhaus (https://stats.stackexchange.com/users/294515/microhaus)},
+    HOWPUBLISHED = {Cross Validated},
+    NOTE = {URL:https://stats.stackexchange.com/q/535051 (version: 2021-07-20)},
+    EPRINT = {https://stats.stackexchange.com/q/535051},
+    URL = {https://stats.stackexchange.com/q/535051}
+}

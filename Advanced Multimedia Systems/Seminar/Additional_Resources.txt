@@ -1,0 +1,3 @@
+DSC: https://en.wikipedia.org/wiki/Distributed_source_coding
+MS-SSIM: https://en.wikipedia.org/wiki/Structural_similarity
+Python-Tensorflow Implementation: https://github.com/ayziksha/DSIN
